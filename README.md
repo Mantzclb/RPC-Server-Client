@@ -38,4 +38,5 @@ the user that he does not wish to continue).
 ![image](https://github.com/Mantzclb/RPC-Server-Client/assets/119366289/671c6f0e-3081-4b61-b9e9-3a71b30d0c24)
 
 Quiting:
+
 ![image](https://github.com/Mantzclb/RPC-Server-Client/assets/119366289/bd2b6e75-4a1e-4132-ba7e-7942f0a7e968)
