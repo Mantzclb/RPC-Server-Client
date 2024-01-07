@@ -26,10 +26,15 @@ the user that he does not wish to continue).
 9. Input ```./client localhost 5000``` and press **Enter**. (Client socket will start running).
 
 <h2>Photos</h2>
+
 ![image](https://github.com/Mantzclb/RPC-Server-Client/assets/119366289/ef71ea64-a304-4aef-96fa-e61b656bc915)
+
 ![image](https://github.com/Mantzclb/RPC-Server-Client/assets/119366289/97cc5b67-df30-438d-8e84-dd7afb242456)
+
 ![image](https://github.com/Mantzclb/RPC-Server-Client/assets/119366289/b5248195-498b-4d78-95f8-fc6728d897f8)
+
 ![image](https://github.com/Mantzclb/RPC-Server-Client/assets/119366289/3f63a944-d643-4f85-9e6d-922aeed329c2)
+
 ![image](https://github.com/Mantzclb/RPC-Server-Client/assets/119366289/671c6f0e-3081-4b61-b9e9-3a71b30d0c24)
 
 Quiting:
